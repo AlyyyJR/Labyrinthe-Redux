@@ -57,8 +57,8 @@ Réalisé en binôme : **Aly KONATE** & **Youssef ABOU HASHISH**
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/AlyyyJR/Redux.git
-cd Redux
+git clone https://github.com/alyyyJR/Labyrinthe-Redux.git
+cd Labyrinthe-Redux
 ```
 
 ### 2. Compiler
